@@ -176,7 +176,7 @@ export const WelcomePage = (props: Props) => {
 					<AppHeader showDirectory={props.showDirectory} />
 					<div className='welcome-page-content'>
 						<div className='welcome-column'>
-							<HeaderText level={1}>Welcome to FORGE STEEL</HeaderText>
+							<HeaderText level={1}>Hello</HeaderText>
 							<div className='ds-text'>
 								<b>FORGE STEEL</b> is an app for <b>DRAW STEEL</b> players, directors, and content creators.
 							</div>
